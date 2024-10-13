@@ -1,0 +1,1 @@
+Developed an object recognition model using YOLO algorithm as part of the company's R&D project, achieving an accuracy rate of 87%. This project significantly enhanced my expertise in object detection and provided valuable experience in teamwork and project management.
